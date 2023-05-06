@@ -1,0 +1,14 @@
+[defult]
+save_dir = C:/Users/lenovo/Desktop/aa
+current_engine = pytts3
+
+[edge_tts]
+rate_defult = 0
+volume_defult = 0
+voice_defult = Microsoft Server Speech Text to Speech Voice (zh-CN, XiaoxiaoNeural)
+
+[pytts3]
+rate_defult = 200.0
+volume_defult = 100
+voice_defult = HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_ZH-CN_HUIHUI_11.0
+
